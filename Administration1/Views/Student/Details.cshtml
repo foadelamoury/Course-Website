@@ -1,0 +1,76 @@
+﻿@using Application.Features.Student.Models
+@model StudentDTO
+@{
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" media="screen, print" href="~/css/page-invoice.css">
+
+
+		<input type="hidden" asp-for="PhotoName" />
+	<input type="hidden" asp-for="photoFile" />
+
+
+
+
+@if (Model.CountryId != null)
+{
+	<div class="col-sm-2 col-4 my-2">SortIndex</div>
+	<div class="col-sm-4 col-8 my-2">@ViewBag.Countries</div>
+}
+
+@if (Model.NameA != null)
+{
+						<div class="col-sm-2 col-4 my-2">اسم</div>
+		<div class="col-sm-4 col-8 my-2">@Model.NameA</div>
+}
+	@if (Model.NameE != null)
+	{
+							<div class="col-sm-2 col-4 my-2">Name</div>
+							<div class="col-sm-4 col-8 my-2">@Model.NameE</div>
+	}
+	@if (Model.Focus != null)
+{
+						<div class="col-sm-2 col-4 my-2">focus</div>
+						<div class="col-sm-4 col-8 my-2">@Model.Focus</div>
+}
+@if (Model.Active != null)
+{
+						<div class="col-sm-2 col-4 my-2">Active</div>
+						<div class="col-sm-4 col-8 my-2">@Model.Active</div>
+}
+@if (Model.SortIndex != null)
+{
+		<div class="col-sm-2 col-4 my-2">SortIndex</div>
+		<div class="col-sm-4 col-8 my-2">@Model.SortIndex</div>
+}
+
+	<div class="row">
+		@if (Model.PhotoName != null)
+		{
+			<div class="col-sm-2 col-4 my-2">صورة الطالب</div>
+			<div class="col-sm-4 col-8 my-2">
+				<a href="javascript:var x=window.open('/Photos/Student/PhotoA/@Model.Id/@Model.PhotoName',target = '_blank', width = '100%', height = '100%');">
+					<img src="~/Photos/Student/Photo/@Model.Id/@Model.PhotoName" style="height:100% ;width: 30%;" />
+				</a>
+			</div>
+		}
+
+</div>
+
+
+<form asp-action="addCourse" method="post" enctype="multipart/form-data">
+
+	<input type="hidden" asp-for="Id" />
+
+	<Select asp-for="@Model.CourseIds" asp-items="@ViewBag.Courses" multiple>
+
+		<option selected="selected">اختر</option>
+
+	</Select>
+
+	<input type="submit" class="btn btn-primary btn-main-bg m-1" value="حفظ" />
+
+
+</form>
+
