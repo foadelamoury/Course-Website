@@ -52,3 +52,27 @@ D:\Github DotNet Projects\EvaluationTask\Application\obj\Debug\net6.0\Applicatio
 D:\Github DotNet Projects\EvaluationTask\Application\obj\Debug\net6.0\refint\Application.dll
 D:\Github DotNet Projects\EvaluationTask\Application\obj\Debug\net6.0\Application.pdb
 D:\Github DotNet Projects\EvaluationTask\Application\obj\Debug\net6.0\ref\Application.dll
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\bin\Debug\net6.0\Application.deps.json
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\bin\Debug\net6.0\Application.dll
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\bin\Debug\net6.0\Application.pdb
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\bin\Debug\net6.0\ar-EG\Application.resources.dll
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\bin\Debug\net6.0\en-US\Application.resources.dll
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\bin\Debug\net6.0\Domain.dll
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\bin\Debug\net6.0\Domain.pdb
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\Application.Common.Resources.CssClasses.ar-EG.resources
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\Application.Common.Resources.CssClasses.en-US.resources
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\Application.Common.Resources.SharedResource.ar-EG.resources
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\Application.Common.Resources.SharedResource.en-US.resources
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\Application.csproj.GenerateResource.cache
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\ar-EG\Application.resources.dll
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\en-US\Application.resources.dll
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\Application.dll
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\refint\Application.dll
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\Application.pdb
+D:\NET Core Projects 2023\IdscProject\Course-Website\Application\obj\Debug\net6.0\ref\Application.dll

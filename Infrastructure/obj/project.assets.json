@@ -3555,23 +3555,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\elamoury123\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\moshaban\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github DotNet Projects\\EvaluationTask\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\NET Core Projects 2023\\IdscProject\\Course-Website\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\Github DotNet Projects\\EvaluationTask\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\elamoury123\\.nuget\\packages\\",
-      "outputPath": "D:\\Github DotNet Projects\\EvaluationTask\\Infrastructure\\obj\\",
+      "projectPath": "D:\\NET Core Projects 2023\\IdscProject\\Course-Website\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\moshaban\\.nuget\\packages\\",
+      "outputPath": "D:\\NET Core Projects 2023\\IdscProject\\Course-Website\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\elamoury123\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\moshaban\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3585,8 +3581,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Github DotNet Projects\\EvaluationTask\\Application\\Application.csproj": {
-              "projectPath": "D:\\Github DotNet Projects\\EvaluationTask\\Application\\Application.csproj"
+            "D:\\NET Core Projects 2023\\IdscProject\\Course-Website\\Application\\Application.csproj": {
+              "projectPath": "D:\\NET Core Projects 2023\\IdscProject\\Course-Website\\Application\\Application.csproj"
             }
           }
         }
@@ -3654,7 +3650,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
